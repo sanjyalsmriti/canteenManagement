@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A300%2C700%2C800"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C700%2C800"/>
   <link rel="stylesheet" href="./styles/desktop-1.css"/>
+  <link rel="stylesheet" href="./styles/global.css"/>
 </head>
 <body>
 <div class="desktop-1-zb6">
@@ -17,23 +18,28 @@
     <div class="item-331-1-wue">
     </div>
     <div class="auto-group-861i-pCk">
-      <div class="auto-group-pkqg-MiU">User name</div>
-      <div class="auto-group-msat-dfz">Email</div>
-      <div class="auto-group-cc8u-v9J">
-        <p class="password-e5J">Password</p>
-        <img class="vector-NGC" src="./assets/vector-iV2.png"/>
-      </div>
-      <div class="auto-group-yjyn-HPA">
-        <p class="confirm-password-1a4">Confirm Password</p>
-        <img class="vector-8ua" src="./assets/vector-wBr.png"/>
-      </div>
+      <form class="signup-form" action="/signup" method="post">
+        <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+        <div class="form-group d-flex">
+          <label for="password">Already have account?</label>
+          <a href="" class="fs-20">Login</a>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="fs-20">Sign Up</button>
+        </div>
+    </form>
     </div>
   </div>
-  <div class="auto-group-ggse-rKn">
-    <span class="auto-group-ggse-rKn-sub-0">Already have account? </span>
-    <span class="auto-group-ggse-rKn-sub-1">Login</span>
-    <span class="auto-group-ggse-rKn-sub-2">  </span>
-  </div>
-  <div class="auto-group-k25i-L1z">Next</div>
 </div>
 </body>
