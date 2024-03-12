@@ -1,0 +1,114 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-3-e8C {
+  box-sizing: border-box;
+  padding: 9.6rem 47.5rem 13.7rem 40.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffcf3;
+}
+.desktop-3-e8C .personal-details-kBE {
+  margin: 0rem 0rem 7.5rem 2.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-e8C .auto-group-hyqn-qiU {
+  margin-bottom: 6.8rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4.6rem 2.6rem 4.6rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #eaeaea;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-3-e8C .auto-group-u8cu-Jrx {
+  margin-bottom: 5.3rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4.6rem 2.6rem 4.6rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #eaeaea;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-3-e8C .auto-group-6gza-nn8 {
+  margin-bottom: 5.5rem;
+  box-sizing: border-box;
+  padding: 1.9rem 4.6rem 3.5rem 4.6rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #eaeaea;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-3-e8C .auto-group-92hr-sYg {
+  margin-bottom: 6.8rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4.6rem 2.6rem 4.6rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #eaeaea;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-3-e8C .auto-group-bn28-mPA {
+  margin: 0rem 17.3rem 0rem 14.7rem;
+  width: calc(100% - 32rem);
+  height: 7.7rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fba834;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}

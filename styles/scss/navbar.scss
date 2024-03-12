@@ -1,0 +1,79 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.navbar-EvQ {
+  padding: 2.6rem 29.4rem 2.5rem 31rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0.5rem 0.5rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0 0 2rem 2rem;
+  box-sizing: border-box;
+
+  .auto-group-jbn4-XuW {
+    position: relative;
+    background-color: #d9d9d9;
+    border-radius: 2rem;
+    flex-shrink: 0;
+    margin-right: 23.6rem;
+    width: 42.4rem;
+    height: 5.5rem;
+
+    .rectangle-8-fVv {
+      border-radius: 2rem;
+      width: 9rem;
+      height: 5.5rem;
+      position: absolute;
+      left: 33.4rem;
+      top: 0;
+      background-color: #fba834;
+    }
+    .search-BUG {
+      color: #ffffff;
+      white-space: nowrap;
+      width: 6.2rem;
+      position: absolute;
+      left: 34.8rem;
+      top: 1.6rem;
+      font-weight: 400;
+      line-height: 1.1725;
+      height: 2.4rem;
+      font-size: 2rem;
+      font-family: Roboto, 'Source Sans Pro';
+    }
+  }
+  .home-TRn {
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin: 0rem 7.1rem 0.3rem 0rem;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1725;
+    color: #000000;
+    font-family: Roboto, 'Source Sans Pro';
+  }
+  .menu-yQ8 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1725;
+    color: #000000;
+    font-family: Roboto, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+  }
+}
